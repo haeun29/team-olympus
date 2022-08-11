@@ -68,7 +68,7 @@
 }
 
 .k-col p { 
-  font-weight: 400;
+  /* font-weight: 400; */
   text-align: justify;
   font-size: 15px;
 }
