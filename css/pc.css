@@ -45,7 +45,8 @@ header {
 }
 
 #main-header .container h1>a>img {
-    width: 100%;
+    max-width: 200px;
+    padding-top: 12px;
 }
 
 /* gnb  */

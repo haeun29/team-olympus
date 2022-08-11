@@ -1,12 +1,12 @@
 /* intro */
 
-#k-intro { 
+#kk-intro { 
   text-align: center;
 }
 
 
 
-.k-main-banner { 
+.kk-main-banner { 
   background-image: url(/images/intro/banner.png);
   width: 100%;
   height: 150px;
@@ -15,14 +15,14 @@
   align-items: center;
 }
 
-.k-main-banner h1 { 
+.kk-main-banner h1 { 
   color: #fff;
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 0.5em;
 }
 
-.k-main-text { 
+.kk-main-text { 
   width: 100%;
   height: 150px;
   display: flex;
@@ -32,7 +32,7 @@
   padding-right: 20px;
 }
 
-.k-main-text p { 
+.kk-main-text p { 
   font-weight: 400;
   font-size: 20px;
   padding-left: 10px;
@@ -45,7 +45,7 @@
 
 
 
-.k-col {
+.kk-col {
   /* outline: 1px solid red; */
   display: flex;
   flex-direction: column;
@@ -54,7 +54,7 @@
 
 }
 
-.k-col h2 { 
+.kk-col h2 { 
   color: #D1D1D1;
   font-weight: 700;
   font-size: 30px;
@@ -63,11 +63,11 @@
   padding-bottom: 20px;
 }
 
-.k-col h2 br { 
+.kk-col h2 br { 
   display: none;
 }
 
-.k-col p { 
+.kk-col p { 
   /* font-weight: 400; */
   text-align: justify;
   font-size: 15px;
