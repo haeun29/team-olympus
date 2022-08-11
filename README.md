@@ -23,6 +23,6 @@
 #### ✅  HTML5
 #### ✅  CSS
 #### ✅  JavaScript
-#### ✅  jQuuery
+#### ✅  jQuery
 
 
