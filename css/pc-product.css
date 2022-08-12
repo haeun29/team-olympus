@@ -90,6 +90,9 @@
     transition: all 0.4s ease-in;
     background: #fff;
   }
+  #h-container .h-col:hover  { 
+    outline: none;
+  }
   
   #h-container .h-col:hover img {
     filter: grayscale(100%) brightness(90%);
