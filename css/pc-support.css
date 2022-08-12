@@ -60,7 +60,8 @@
 .j-contact {
     text-align: center;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 16px;
+    line-height: 25px;
     /* padding-bottom: 23px; */
 }
 
@@ -114,7 +115,6 @@
 }
 
 .j-time {
-    margin-bottom: 10px;
 }
 
 .j-questions:hover , .j-tour:hover {
