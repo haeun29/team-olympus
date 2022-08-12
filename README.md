@@ -27,10 +27,8 @@
 
 ## ⚙ **사용라이브러리**
 
-
-#### ✅  HTML5
-#### ✅  CSS
-#### ✅  JavaScript
 #### ✅  jQuery
+#### ✅  BootStrap Icon
+#### ✅  Swiper
 
 
