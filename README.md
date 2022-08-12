@@ -20,7 +20,7 @@
 
 ##  📸 **대표사진**
 
-![main-img](https://user-images.githubusercontent.com/105402303/184274948-b976fe43-df50-4c06-ae90-b285ba8b2d03.jpg)
+![main-img](https://user-images.githubusercontent.com/105402303/184291714-e45bb97f-3744-439d-8140-b1f8f05073a8.jpg)
 
 
 <br>
