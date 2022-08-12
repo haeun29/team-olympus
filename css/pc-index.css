@@ -61,10 +61,14 @@
     font-size: 30px;
     padding-bottom: 60px;
     text-align: center;
-    text-decoration: 5px underline; 
-    text-underline-position:under;
-    text-decoration-color: #E9B226;
 }
+
+#k-field h1 span { 
+    border-bottom: 5px solid #E9B226;
+}
+
+
+
 
 #k-field .k-list { 
     display: flex;
@@ -170,12 +174,14 @@
 
 
 #k-product h1 { 
+    font-size: 30px;
     text-align: center;
-    text-decoration: 5px underline; 
-    text-underline-position:under;
-    text-decoration-color: #E9B226;
     padding-top: 60px;
     padding-bottom: 60px;
+}
+
+#k-product h1 span { 
+    border-bottom: 5px solid #E9B226;
 }
 
 #k-product .k-col2 { 

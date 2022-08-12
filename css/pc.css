@@ -147,8 +147,11 @@ footer {
     align-items: center;
     justify-content: space-between;
     /* height: 180px; */
-    padding-left: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
+
+
 
 .footer-info {
     display: flex;
@@ -189,7 +192,6 @@ footer {
 
 .family-site {
     position: relative;
-    margin-right: 108px;
     /* outline: 1px solid red; */
 }
 
