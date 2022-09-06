@@ -4,7 +4,7 @@
 
 #### 오리지널 페이지 : https://olympusmedical.co.kr/
 #### 리뉴얼 페이지 : https://haeun29.github.io/team-olympus/
-
+#### 피그마 시안 : https://www.figma.com/file/WRUFXc0sYbH2wgVb8yEkID/%EC%98%AC%EB%A6%BC%ED%91%B8%EC%8A%A4%ED%95%9C%EA%B5%AD?node-id=0%3A1
 
 <br>
 
